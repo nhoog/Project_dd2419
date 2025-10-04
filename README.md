@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1b7bd2f0-0bfa-4769-8203-c8b61551d04f
+
 # Autonomous Robot - KTH DD2419 Project: "Grumpy"
 
 This repository documents the journey of **Team Grumpy** through the KTH Royal Institute of Technology's DD2419 Project Course in Robotics (Spring 2025). It represents our collective effort in building an autonomous mobile robot system capable of exploring an unknown environment, mapping objects, and collecting specific items.
